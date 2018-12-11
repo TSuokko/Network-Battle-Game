@@ -1,4 +1,4 @@
 ﻿  UDP_Server.cpp
-c:\users\tuomassuo\desktop\network-battle-game\udp_server\udp_server\udp_server.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\tuomassuo\desktop\network-battle-game\udp_server\udp_server\udp_server.cpp(117): warning C4018: '<=': signed/unsigned mismatch
-  UDP_Server.vcxproj -> C:\Users\TuomasSuo\Desktop\Network-Battle-Game\UDP_Server\Debug\UDP_Server.exe
+c:\users\tuomas\desktop\network-battle-game\udp_server\udp_server\udp_server.cpp(114): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tuomas\desktop\network-battle-game\udp_server\udp_server\udp_server.cpp(119): warning C4018: '<=': signed/unsigned mismatch
+  UDP_Server.vcxproj -> C:\Users\Tuomas\Desktop\Network-Battle-Game\UDP_Server\Debug\UDP_Server.exe

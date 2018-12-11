@@ -1,1 +1,4 @@
-﻿  UDP_Client.vcxproj -> C:\Users\Tuomas\Desktop\Network-Battle-Game\UDP_Client\Debug\UDP_Client.exe
+﻿  UDP_Client.cpp
+c:\users\tuomas\desktop\network-battle-game\udp_client\udp_client\udp_client.cpp(57): warning C4838: conversion from 'SOCKET' to 'int' requires a narrowing conversion
+c:\users\tuomas\desktop\network-battle-game\udp_client\udp_client\udp_client.cpp(57): warning C4838: conversion from 'int' to 'SOCKET' requires a narrowing conversion
+  UDP_Client.vcxproj -> C:\Users\Tuomas\Desktop\Network-Battle-Game\UDP_Client\Debug\UDP_Client.exe
